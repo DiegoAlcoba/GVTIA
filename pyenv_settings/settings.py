@@ -19,6 +19,7 @@ import logging
 
 import spacy
 import nltk
+import textacy
 
 from tqdm.auto import tqdm
 # register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
